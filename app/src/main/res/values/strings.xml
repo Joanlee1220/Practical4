@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Practical4</string>
+    <string name="age">Age</string>
+    <string name="account1_saving">Account 1 Saving</string>
+    <string name="account_Balance">Account Balance</string>
+    <string name="investment">Investment</string>
+    <string-array name="age_group">
+        <item>16 to 20</item>
+        <item>21 to 25</item>
+        <item>26 to 30</item>
+        <item>31 to 35</item>
+        <item>36 to 40</item>
+        <item>41 to 45</item>
+        <item>46 to 50</item>
+        <item>51 to 55</item>
+    </string-array>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+</resources>
